@@ -1,0 +1,5 @@
+print("--------Proyecto de Presentación--------")
+nombre = input("Cual es tu nombre?: ")
+edad = input("Que edad tienes?: ")
+carrera = input("Que carrera estas estudiando?: ")
+print(f"Hola {nombre}! , veo que tienes {edad} años, y que estudias {carrera}, estoy muy feliz de tener aqui, Bienvenido !")
